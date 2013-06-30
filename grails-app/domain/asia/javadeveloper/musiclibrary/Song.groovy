@@ -12,4 +12,8 @@ class Song {
         title(blank: false, nullable:false)
         lyrics(blank: false, nullable:false, maxSize:65535 )
     }
+
+    static mapping = {
+        lyrics type: 'text'
+    }
 }

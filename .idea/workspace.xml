@@ -5,9 +5,9 @@
     <ignored path="grails-music-library.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="e8e3fc6b-3ede-4ec0-888e-8b7de3af0984" time="1372599892774" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/modules.xml" changelist="e8e3fc6b-3ede-4ec0-888e-8b7de3af0984" time="1372598272994" ignored="false" />
-    <file path="/Dummy.txt" changelist="e8e3fc6b-3ede-4ec0-888e-8b7de3af0984" time="1372599214371" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="e8e3fc6b-3ede-4ec0-888e-8b7de3af0984" time="1372600387759" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/modules.xml" changelist="e8e3fc6b-3ede-4ec0-888e-8b7de3af0984" time="1372599983789" ignored="false" />
+    <file path="/Dummy.txt" changelist="e8e3fc6b-3ede-4ec0-888e-8b7de3af0984" time="1372600136746" ignored="false" />
     <file path="$PROJECT_DIR$/test/unit/asia/javadeveloper/musiclibrary/ArtistTests.groovy" changelist="e8e3fc6b-3ede-4ec0-888e-8b7de3af0984" time="1372599138423" ignored="false" />
     <file path="$PROJECT_DIR$/test/unit/asia/javadeveloper/musiclibrary/SongTests.groovy" changelist="e8e3fc6b-3ede-4ec0-888e-8b7de3af0984" time="1372599188271" ignored="false" />
     <file path="$PROJECT_DIR$/test/unit/asia/javadeveloper/musiclibrary/SongGenreTests.groovy" changelist="e8e3fc6b-3ede-4ec0-888e-8b7de3af0984" time="1372599230754" ignored="false" />
@@ -16,7 +16,7 @@
     <file path="/Genre.groovy" changelist="e8e3fc6b-3ede-4ec0-888e-8b7de3af0984" time="1372599365482" ignored="false" />
     <file path="/Artist.groovy" changelist="e8e3fc6b-3ede-4ec0-888e-8b7de3af0984" time="1372599451200" ignored="false" />
     <file path="/Song.groovy" changelist="e8e3fc6b-3ede-4ec0-888e-8b7de3af0984" time="1372599538925" ignored="false" />
-    <file path="/a.dummy" changelist="e8e3fc6b-3ede-4ec0-888e-8b7de3af0984" time="1372599676730" ignored="false" />
+    <file path="/a.dummy" changelist="e8e3fc6b-3ede-4ec0-888e-8b7de3af0984" time="1372600134670" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,41 @@
     <favorites_list name="grails-music-library" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="DataSource.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="84" selection-start="371" selection-end="371" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Song.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/asia/javadeveloper/musiclibrary/Song.groovy">
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="14" selection-start="360" selection-end="360" vertical-scroll-proportion="0.433213">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Artist.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/asia/javadeveloper/musiclibrary/Artist.groovy">
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="56" selection-start="170" selection-end="214" vertical-scroll-proportion="-2.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -89,6 +123,7 @@
         <option value="$PROJECT_DIR$/grails-app/domain/asia/javadeveloper/musiclibrary/SongGenre.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/asia/javadeveloper/musiclibrary/Genre.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/asia/javadeveloper/musiclibrary/Artist.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/asia/javadeveloper/musiclibrary/Song.groovy" />
       </list>
     </option>
@@ -114,7 +149,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -125,7 +160,48 @@
       <autoscrollFromSource />
       <sortByType />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-music-library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-music-library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-music-library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-music-library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-music-library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysql-connector-java-5.1.24-bin.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
@@ -143,7 +219,21 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
   <component name="RunManager" selected="Grails.Grails:grails-music-library">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -276,7 +366,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1363" y="0" width="1926" height="1082" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -300,8 +390,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15635005" sideWeight="0.8162393" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32905984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15635005" sideWeight="0.67094016" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32905984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -426,12 +516,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="84" selection-start="371" selection-end="371" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/asia/javadeveloper/musiclibrary/Artist.groovy">
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="56" selection-start="170" selection-end="214" vertical-scroll-proportion="0.0">
+        <state line="8" column="56" selection-start="170" selection-end="214" vertical-scroll-proportion="-2.5">
           <folding />
         </state>
       </provider>
@@ -441,7 +538,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="53" selection-start="308" selection-end="308" vertical-scroll-proportion="0.32490975">
+        <state line="16" column="14" selection-start="360" selection-end="360" vertical-scroll-proportion="0.433213">
           <folding />
         </state>
       </provider>
@@ -454,6 +551,7 @@
           <value>
             <GrailsSettings>
               <option name="buildConfigCrc" value="-2138083140" />
+              <option name="pluginDependenciesCrc" value="343559055" />
               <option name="properties">
                 <map>
                   <entry key="grails.global.plugins.dir" value="$USER_HOME$/.grails/2.2.2/global-plugins" />
@@ -463,6 +561,11 @@
                 </map>
               </option>
             </GrailsSettings>
+          </value>
+        </entry>
+        <entry key="grails-music-library-grailsPlugins">
+          <value>
+            <GrailsSettings />
           </value>
         </entry>
       </map>
